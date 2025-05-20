@@ -1,0 +1,42 @@
+[
+    {
+        "name": "VGA ASUS Dual GeForce RTX™ 5060 8GB GDDR7 OC Edition",
+        "price": 14990000,
+        "image": "https://product.hstatic.net/200000921511/product/vga-asus-dual-geforce-rtx-5060-8gb-gddr7-oc-edition_1_600bc75f04ca43e1be788c7ddad053f2_medium.png"
+    },
+    {
+        "name": "Chuột Gamming",
+        "price": 400000,
+        "image": "https://product.hstatic.net/200000921511/product/bpstore-asus-rog-harpe-ace-extreme__1__9262f0c7b2664e208b69cbe7e79ce5d2_medium.png"
+    },
+    {
+        "name": "Màn hình Asus ROG Swift OLED PG27UCDM",
+        "price": 33990000,
+        "image": "https://product.hstatic.net/200000921511/product/bpstore-asus-rog-swift-pg27ucdm__1__f8048de034804ebda9c40e41b1071fcc_medium.png"
+    },
+    {
+        "name": "Nguồn máy tính Asus ROG THOR 1600W Titanium III",
+        "price": 23250000,
+        "image": "https://product.hstatic.net/200000921511/product/bpstore-asus-rog-thor-1600-titanium-iii__11__3621de17c7894f9b89b07fb38eeb43bb_medium.png"
+    },
+    {
+        "name": "NVIDIA RTX 5090 FOUNDER EDITION",
+        "price": 114900000,
+        "image": "https://product.hstatic.net/200000921511/product/bpstore-nvidia-rtx-5090-fe__1__b881343a92b040c1a1b7917e23fe1c38_medium.png"
+    },
+    {
+        "name": "Giá đỡ màn hình HyperWork T9 Pro III",
+        "price": 2390000,
+        "image": "https://product.hstatic.net/200000921511/product/bpstore-arm-hyperwork-t9-pro-3_1_47f55af7118a4ff190123200c80fd990_medium.jpg"
+    },
+    {
+        "name": "VGA ASRock AMD Radeon™ RX 9070 Steel Legend 16GB OC",
+        "price": 19390000,
+        "image": "https://product.hstatic.net/200000921511/product/bpstore-vga-asrock-amd-radeon-rx-9070-xt-steel-legend-16gb__1__70924de75a9041ca8fae8f35d5732dec_medium.png"
+    },
+    {
+        "name": "Màn hình ASUS ProArt PA248QV",
+        "price": 4990000,
+        "image": "https://product.hstatic.net/200000921511/product/bpstore-man-hinh-asus-proart-pa248qv__1___860cf8f472f54c038246b8591c630996_medium.png"
+    }
+]
